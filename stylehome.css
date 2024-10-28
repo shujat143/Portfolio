@@ -1,0 +1,35 @@
+h1 {
+    color: #333;
+    margin-top: 80px; /* To prevent overlap with navbar */
+}
+
+p {
+    color: #666;
+}
+
+.my-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.my-button:hover {
+    background-color: #45a049;
+}
+section {
+    padding: 50px;
+    text-align: center;
+    margin-top: 150px;
+
+}
+#home {
+    background-color: #45a088;
+}
